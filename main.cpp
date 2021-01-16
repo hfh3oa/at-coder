@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int n, a, b;
+    std::cin >> n >> a >> b;
+    std::cout << n - a + b << std::endl;
     return 0;
 }
