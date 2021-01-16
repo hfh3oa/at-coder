@@ -1,3 +1,0 @@
-C:/Users/yadohisa/CLionProjects/at-coder/cmake-build-debug/CMakeFiles/at_coder.dir
-C:/Users/yadohisa/CLionProjects/at-coder/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/yadohisa/CLionProjects/at-coder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
